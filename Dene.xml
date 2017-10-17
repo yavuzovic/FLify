@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GALLERY>
+     <IMAGE_3D_solid_surface_1 FULL="Gallery/3D_solid_surface/1-1.jpg" THUMB="Gallery/3D_solid_surface/small/1-1.jpg" />
+     <IMAGE_3D_solid_surface_1 FULL="Gallery/3D_solid_surface/1-2.jpg" THUMB="Gallery/3D_solid_surface/small/1-2.jpg" />
+     <IMAGE_3D_solid_surface_2 FULL="Gallery/3D_solid_surface/2-1.jpg" THUMB="Gallery/3D_solid_surface/small/2-1.jpg" />
+     <IMAGE_3D_solid_surface_2 FULL="Gallery/3D_solid_surface/2-2.jpg" THUMB="Gallery/3D_solid_surface/small/2-2.jpg" />
+     <IMAGE_3D_solid_surface_3 FULL="Gallery/3D_solid_surface/3-1.jpg" THUMB="Gallery/3D_solid_surface/small/3-1.jpg" />
+     <IMAGE_3D_solid_surface_4 FULL="Gallery/3D_solid_surface/4-1.jpg" THUMB="Gallery/3D_solid_surface/small/4-1.jpg" /> 
+</GALLERY>
